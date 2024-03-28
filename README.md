@@ -1,8 +1,8 @@
 ### Olá, eu sou o Fagner!
 
-- 🔭 Atualmente trabalho com Varejo E-commerce
-- 🌱 Estou estudando Redes de Computadores
-- 💬 Pergunte-me sobre Portugol
+- 🔭 Atualmente estou trabalhando em projetos acadêmicos
+- 🌱 Estou estudando Linguagem C
+- 💬 Pergunte-me sobre LUA
 - 😄 Pronomes: ele/dele
 - ⚡ Fato divertido: Sou um excelente cozinheiro!
 
