@@ -1,5 +1,5 @@
 <h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
-<p align="center"><i>Desenvolvedora Back-end | Graduada em Análise e Desenvolvimento de Sistemas</i></p>
+<p align="center"><i>Analista e Desenvolvedor | Graduando Análise e Desenvolvimento de Sistemas</i></p>
 
 ---
 
@@ -10,7 +10,7 @@
 
 <div align="left" >
   
-Eu sou a **Luna**, desenvolvedora entusiasta por tecnologia e aprendizado contínuo. Atualmente estou estudando **Phyton**, voltado para manipulação de IAs e aplicando meus conhecimentos em projetos
+Eu sou a **Fagner**, desenvolvedor entusiasta por tecnologia e aprendizado contínuo. Atualmente estou estudando **LUA**, voltado para criação de chatbots e aplicando meus conhecimentos em projetos
 que unem teoria, prática e propósito.
 
 Estou sempre em busca de experiências que me desafiem, me conectem com pessoas incríveis 
