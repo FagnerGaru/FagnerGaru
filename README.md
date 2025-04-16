@@ -1,4 +1,9 @@
+<div align="center" >
+  <img align="center" height="250" src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+</div>
+
 <h1 align="center"> 👩‍💻 Seja bem-vindo(a) ao meu GitHub! </h1> 
+
 <p align="center"><i>Analista e Desenvolvedor | Graduando Análise e Desenvolvimento de Sistemas</i></p>
 
 ---
@@ -6,7 +11,7 @@
 ## 🌟 Sobre Mim
 
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 <div align="left" >
   
@@ -100,8 +105,7 @@ e me façam crescer como profissional e pessoa. 🤝✨
 ###
 
 ---
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="230" align="right">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a754eac4-5a8b-4e8f-922b-aff555400790" width="200" align="right">
 
 <div align="left" >
   
@@ -115,7 +119,7 @@ e me façam crescer como profissional e pessoa. 🤝✨
 ---
 
 <div align="center">
-  <img align="middle" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="550" alt="Imagem em desenho de uma mulher e um gato em cima de um notebook" />
+  <img align="center" height="50" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
 </div>
 <br>
 <p align="center"><i>Obrigado pela visita! 🙋‍♂️</i></p>
