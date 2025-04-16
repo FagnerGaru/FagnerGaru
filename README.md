@@ -22,7 +22,7 @@ e me façam crescer como profissional e pessoa. 🤝✨
 
 <div align="left">
   
-  <a href="mailto:fasesdaluna.aurora@gmail.com?subject=Conectando+com+Luna+Aurora+%E2%80%93+Vamos+Conversar!&body=Ol%C3%A1,+Luna!++Encontrei+seu+contato+atrav%C3%A9s+das+suas+redes+sociais+e+gostaria+de+conversar.">
+  <a href="https://mailto:fagner.garu@gmail.com?subject=Contato+por+Link&body=Ol%C3%A1+Fagner,+podemos+conversar?">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   
@@ -30,7 +30,7 @@ e me façam crescer como profissional e pessoa. 🤝✨
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   
-  <a href="https://wa.me/5548998489722">
+  <a href="https://wa.me/5548996483551">
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
   
@@ -91,7 +91,11 @@ e me façam crescer como profissional e pessoa. 🤝✨
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FagnerGaru/FagnerGaru/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FagnerGaru/FagnerGaru/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FagnerGaru/FagnerGaru/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FagnerGaru/FagnerGaru/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
