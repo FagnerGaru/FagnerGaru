@@ -107,9 +107,9 @@ e me façam crescer como profissional e pessoa. 🤝✨
 
 <div align="left" >
   
-> _"Nada na vida deve ser temido, apenas compreendido. Agora é hora de compreender mais, para que possamos temer menos."_ 🧠
+> _"Somos o que repetidamente fazemos. A excelência, portanto, não é um ato, mas um hábito."_ 📜
 > <br><br>
-> — **Marie Curie**
+> — **Aristóteles**
 > <br><br>
 
 </div>
